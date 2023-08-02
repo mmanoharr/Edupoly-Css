@@ -1,0 +1,14 @@
+h1 {
+    color: #ff0000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3 {
+    background-color: #0000ff;
+    color: #ffffff;
+}
+p {
+    font-size: 30px;
+    font-weight: lighter;
+    border: 1px red solid;
+    box-shadow: 5px 5px 5px 5px;
+}
