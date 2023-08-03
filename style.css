@@ -1,14 +1,23 @@
-h1 {
-    color: #ff0000;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+* {
+    padding: 0;
+    margin: 0;
 }
-h3 {
-    background-color: #0000ff;
-    color: #ffffff;
+nav {
+    border: 1px solid #6F4E37;
+    background-color: #6F4E37;
+    height: 60px;
 }
-p {
-    font-size: 30px;
-    font-weight: lighter;
-    border: 1px red solid;
-    box-shadow: 5px 5px 5px 5px;
+
+a {
+margin: 100px;
+padding: 30px;
+color: white;
+text-decoration: none;
+}
+
+a:hover {
+    background-color: aqua;
+}
+img:hover {
+    transform: scale(2,2) ;
 }
